@@ -1,6 +1,6 @@
 # RED OSPF
 ![mapeo ospf ](OSPF.png)
-
+Archivo pkt [RED OSPF](OSPF 1.pkt)
 # configuracion 
 ## ROUTER CORE 1
 ```conf
