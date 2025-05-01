@@ -1,4 +1,4 @@
-
+![mapeo ospf ](OSPF.png)
 # configuracion 
 ## ROUTER CORE 1
 ```conf
