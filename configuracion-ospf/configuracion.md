@@ -1,7 +1,8 @@
 # RED OSPF
 ![mapeo ospf ](OSPF.png)
-descarga archivo pkt [OSPF 1.pkt](configuracion-ospf
-/OSPF 1.pkt)
+
+[Descargar topología de red](practicas/topologia_red.pkt)
+
 # configuracion 
 ## ROUTER CORE 1
 ```conf
