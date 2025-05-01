@@ -1,3 +1,4 @@
+# RED OSPF
 ![mapeo ospf ](OSPF.png)
 # configuracion 
 ## ROUTER CORE 1
